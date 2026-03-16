@@ -1,0 +1,6 @@
+@InfinityGrowth_Proyecto2_HostAddress = http://localhost:5047
+
+GET {{InfinityGrowth_Proyecto2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
